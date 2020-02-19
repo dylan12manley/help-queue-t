@@ -1,6 +1,12 @@
+# Help Queue T
+#### A app made in React immitating the Epicodus class help queue
+
+
+
 ## Instilation
 Clone down this repository.
 #### run these commands in the project folder in your terminal
+
 npm init
 
 touch .gitignore (file)
@@ -12,6 +18,7 @@ npm install prop-types@15.5.10 --save
 
 npm install eslint@4.13.1 --save-dev
 
+##### Dont do the eslint stuff unless necessary"
 eslint --init
 ? Are you using ECMAScript 6 features? Y
 ? Are you using ES6 modules? Y
