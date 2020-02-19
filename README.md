@@ -18,6 +18,8 @@ npm install prop-types@15.5.10 --save
 
 npm install eslint@4.13.1 --save-dev
 
+npm install react-router-dom@4.2.2 --save
+
 ##### Dont do the eslint stuff unless necessary"
 eslint --init
 ? Are you using ECMAScript 6 features? Y
