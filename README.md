@@ -20,6 +20,10 @@ npm install eslint@4.13.1 --save-dev
 
 npm install react-router-dom@4.2.2 --save
 
+npm install --save styled-jsx
+
+npm install url-loader@0.6.2 --save-dev
+
 ##### Dont do the eslint stuff unless necessary"
 eslint --init
 ? Are you using ECMAScript 6 features? Y
@@ -35,4 +39,4 @@ eslint --init
 ? Do you require semicolons? > Yes
 ? What format do you want your config file to be in? >JSON
 
-$ npm install --save styled-jsx
+
