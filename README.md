@@ -24,6 +24,8 @@ npm install --save styled-jsx
 
 npm install url-loader@0.6.2 --save-dev
 
+npm install file-loader@1.1.6 --save-dev
+
 ##### Dont do the eslint stuff unless necessary"
 eslint --init
 ? Are you using ECMAScript 6 features? Y
