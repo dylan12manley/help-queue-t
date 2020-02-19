@@ -28,6 +28,8 @@ npm install file-loader@1.1.6 --save-dev
 
 npm install uuid@3.2.1
 
+npm install moment@2.18.1
+
 ##### Dont do the eslint stuff unless necessary"
 eslint --init
 ? Are you using ECMAScript 6 features? Y
