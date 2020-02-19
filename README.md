@@ -1,3 +1,6 @@
+## Instilation
+Clone down this repository.
+#### run these commands in the project folder in your terminal
 npm init
 
 touch .gitignore (file)
